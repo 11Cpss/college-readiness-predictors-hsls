@@ -1,5 +1,10 @@
 # Predicting College Freshman Academic Success: Pre-College Indicators Analysis
 
+
+## My Contributions
+This is my groups UCSD Cogs108 Final Project. My involvement was the intial project conceptualization, data cleaning and wrangling, and anything modeling related. I also created the youtube video for our final project.
+Link to the video will be here:
+- https://www.youtube.com/watch?v=C1qti7sBx44
 ## Executive Summary
 
 This project investigates how pre-college academic and environmental/context variables relate to first-year college GPA. Using HSLS:09 (2009-2016), we analyzed 23,503 students in the raw data and ~2,271 complete-case observations for modeling. Across both EDA and predictive modeling, we found that **academic preparation (especially cumulative high school GPA and AP/IB credit exposure) is the strongest predictor**, while context variables add smaller but still meaningful signal.
@@ -15,6 +20,13 @@ To what extent do pre-college academic indicators predict first-year college aca
 - **Modeling sample**: ~2,271 complete cases  
 - **Outcome**: `FRESHMAN_GPA` (`X5YR1GPA`)  
 - **Predictors**: academic, school context, and family context variables selected from the HSLS codebook and cleaned feature set
+
+## Repository Structure
+
+- `EDA.ipynb`: exploratory data analysis, visualizations, and correlation checks
+- `FinalProjectModeling.ipynb`: linear model comparison and XGBoost modeling
+- `variable_selection.ipynb`: variable-screening workflow and selection notes
+- `data/`: raw and processed HSLS files used in analysis
 
 ---
 
