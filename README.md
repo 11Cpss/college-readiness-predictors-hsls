@@ -1,8 +1,8 @@
 # Predicting College Freshman Academic Success: Pre-College Indicators Analysis
 
 
-## My Contributions
-This is my groups UCSD Cogs108 Final Project. My involvement was the intial project conceptualization, data cleaning and wrangling, and anything modeling related. I also created the youtube video for our final project.
+## My Contributions(-Jaden Wu)
+This is my groups UCSD Cogs108 Final Project. My involvement was the intial project conceptualization, data cleaning and wrangling, and anything modeling related. I also created the youtube video for our final project. I hope you enjoy our project!
 Link to the video will be here:
 - https://www.youtube.com/watch?v=C1qti7sBx44
 ## Executive Summary
